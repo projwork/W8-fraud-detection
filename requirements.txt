@@ -28,3 +28,10 @@ pyarrow>=8.0.0
 
 # Optional: for progress bars
 tqdm>=4.64.0
+
+# Advanced ML models
+lightgbm>=3.3.0
+xgboost>=1.6.0
+
+# Model Explainability
+shap>=0.41.0
